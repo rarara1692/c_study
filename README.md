@@ -1,3 +1,3 @@
 # c_study
 my study c programming file commit data
-It is C
+It is C Language
